@@ -1,4 +1,4 @@
-# Descentralized Loan Engine Library
+# Descentralized Loan Engine
 
 Core functionality of the Descentralized Loan Engine.
 
