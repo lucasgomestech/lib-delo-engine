@@ -14,7 +14,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 * Node.js 12.16.0 - [Download & Install Node.js](https://nodejs.org/dist/v12.16.0/) and the npm package manager.
 * Docker - [Download & Install Docker](https://hub.docker.com/?overlay=onboarding).
-* MongoDB Compass - [Download & Install Compass](https://www.mongodb.com/download-center/compass).
+* MongoDB Compass - [Download & Install Compass](https://www.mongodb.com/download-center/compass) or any other database tool of your choice.
 * Visual Studio Code - [Download & Install VS Code](https://hub.docker.com/?overlay=onboarding) or any other IDE of your choice.
 
 ## Setup
